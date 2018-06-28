@@ -96,3 +96,40 @@ Quizzes and Programming assignments
     + It is OK to use heuristics and manual data analysis
     + It is OK to produce a complex model, to use advanced pre-processing ideas and to perform huge calculations (as long as we have the computational power to do so)
 - Be **creative**
+
+
+### Recap of main ML algorithms
+
+No notes taken.
+
+
+### Software/Hardware requirements
+
++ Most competitions can be ran with:
+    * high-level laptop
+    * 16+ GB RAM
+    * 4+ cores
++ But it is better to have:
+    * Tower PC
+    * 32 GB RAM
+    * 6+ cores
++ RAM is crucial to keep data in memory
++ #cores is also important
++ Storage in SSD is crucial for big datasets
++ Consider renting cloud-based computational resources
+    * Amazon AWS -- see *spot instances*
+    * Microsoft Azure
+    * Google Cloud
++ **Do not use commercial software** (see comptetion rules)
++ Python is more common and more general
+    * `numpy`
+    * `pandas`
+    * `sklearn`
+    * `matplotlib` -- but I prefer `seaborn`
++ Use `jupyter`
++ Know about other packages: `XGBoost`, `LightGBM`, `Keras`, `tsne`, *etc*.
++ Also know about other non-python specific tools:
+    * `Vowpal Wabbit`: blazing speed in handling big datasets which don't fit into RAM
+    * `libfm` and `libffm`: optimization algorithms useful for sparse data
+    * `fast_rgf`: a tree-based method (???)
+
