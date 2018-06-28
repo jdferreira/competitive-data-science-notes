@@ -64,7 +64,8 @@ Quizzes and Programming assignments
 - Datascience.net
 - other single competition sites (KDD, VizDooM, *etc*.)
 
-### Rea-world applications *vs.* Competitions
+
+### Real-world applications *vs.* Competitions
 
 - Data Science in the real world is complicated
     + Understand the problem
@@ -84,6 +85,7 @@ Quizzes and Programming assignments
         * Understand the problem
         * Collect data
     + In particular: we're not interested in speed, memory consumption nor in complexity analysis!
+
 
 ### Philosophy of competitions
 
